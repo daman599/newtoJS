@@ -42,4 +42,6 @@ let dog=myname;
 //console.log(dog)
 //learnt about arrays ,objects,number ,math ,library
 
+//fuctions done
+
 
