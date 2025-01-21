@@ -25,7 +25,7 @@ let n = 785399210294958755720570575n
 //memmory
 //stack memory
 let num = 67;
-console.log(num);
+//.log(num);
 /*
 let newNumber=num;
 newNumber=78
@@ -34,7 +34,7 @@ console.log(num);
 */
 
 //heap memory
-let myname=["a","m","a","n"];
+let myname=["a","m","a`","n"];
 //console.log(myname);
 
 let dog=myname;
@@ -43,5 +43,20 @@ let dog=myname;
 //learnt about arrays ,objects,number ,math ,library
 
 //fuctions done
+//arrow function
+//this keyword
+//iife
+//how the code is executed in js and call stack
+// const myObj={
+//     name:"daman",
+//     myFunction:function(){
+//         console.log(`${this.name})
+//     }
+// }
+// myObj.myFunction()
+
+// ((val1)=>{
+//     console.log(val1)
+// })(1);
 
 
