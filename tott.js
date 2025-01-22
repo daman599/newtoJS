@@ -59,4 +59,13 @@ let dog=myname;
 //     console.log(val1)
 // })(1);
 
+//conditional statements
+// const val1 =8;
+// if(val1 !== 9){
+//     console.log("helo");
+// }
+
+
+
+
 
