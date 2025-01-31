@@ -66,8 +66,10 @@ let dog=myname;
 // }
 
 
-//learnt about loops,for of ,for in ,forEach ,filter,map,reduce,chaining
+//learnt about loops,for of ,for in ,forEach ,filter,map,reduce, chaining
     
+
+
 
 
 
